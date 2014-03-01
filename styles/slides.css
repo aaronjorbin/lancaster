@@ -1,0 +1,17 @@
+body{
+    margin:0;
+}
+
+iframe{
+    border:none;
+}
+
+#start{
+    margin:10px auto;
+    width:100%;
+    display:block;
+    text-align:center;
+    font-size: 50px;
+    text-decoration:none;
+    color: #990000;
+}
