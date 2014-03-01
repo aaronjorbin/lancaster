@@ -1,7 +1,7 @@
 Users<br />Roles<br />Capabilities
 Users&nbsp;Are<br />Unique&nbsp;Logins
 Roles&nbsp;Are<br />Classifications
-Capabilities&nbsp;Are<br />Privaliges
+Capabilities&nbsp;Are<br />Privileges
 Roles are Buckets of Capabilities
 As Few Capabilities as Needed
 Roles Aren't Hierarchical 
