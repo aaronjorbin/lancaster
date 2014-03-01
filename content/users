@@ -1,0 +1,20 @@
+Users<br />Roles<br />Capabilities
+Users&nbsp;Are<br />Unique&nbsp;Logins
+Roles&nbsp;Are<br />Classifications
+Capabilities&nbsp;Are<br />Privaliges
+Roles are Buckets of Capabilities
+As Few Capabilities as Needed
+Roles Aren't Hierarchical 
+current_user_can
+Check Capabilities, not Roles
+gist.github.com/aaronjorbin/da01f282a080a32d636c.js
+Create Roles That Fit your Org
+Super Editor
+Category Editor  
+Always Check Capabilities
+unfiltered_html
+Do I need my own roles?
+Members Plugin
+BuddyPress
+<a href="http://chrislema.com/comparing-wordpress-membership-plugins/">Many Membership Options</a>
+<a href="http://wordpress.tv/2013/08/10/andrew-nacin-current-user-can-watch-this-talk/">Current User Can Watch This Talk - Andrew&nbsp;Nacin</a><img src="http://www.assoc-amazon.com/e/ir?t=aarojorb-20&l=as2&o=1&a=0374275637" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
